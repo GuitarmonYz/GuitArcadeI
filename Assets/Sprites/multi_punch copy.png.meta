@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 6539cef526c51425e8e29ebe9922d0e5
+timeCreated: 1492069895
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: multi_punch copy_0
+    21300002: multi_punch copy_1
+    21300004: multi_punch copy_2
+    21300006: multi_punch copy_3
+    21300008: multi_punch copy_4
+    21300010: multi_punch copy_5
+    21300012: multi_punch copy_6
+    21300014: multi_punch copy_7
+    21300016: multi_punch copy_8
+    21300018: multi_punch copy_9
+    21300020: multi_punch copy_10
+    21300022: multi_punch copy_11
+    21300024: multi_punch copy_12
+    21300026: multi_punch copy_13
+    21300028: multi_punch copy_14
+    21300030: multi_punch copy_15
+    21300032: multi_punch copy_16
+    21300034: multi_punch copy_17
+    21300036: multi_punch copy_18
+    21300038: multi_punch copy_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: multi_punch copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 236
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 236
+        width: 99
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5081777, y: 0.49999905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 236
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 236
+        width: 107
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 172
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 172
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 172
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 172
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 108
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 108
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 108
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 108
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 44
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 44
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 44
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: multi_punch copy_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 44
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
